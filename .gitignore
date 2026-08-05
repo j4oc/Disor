@@ -1,0 +1,14 @@
+# الملفات الحساسة — متترفعش على GitHub أبدًا!
+data.json
+.env
+*.env
+
+# بيانات التشغيل المحلية
+warnings.json
+guild_settings.json
+
+# بايثون
+__pycache__/
+*.pyc
+venv/
+.venv/

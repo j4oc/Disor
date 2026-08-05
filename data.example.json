@@ -1,0 +1,19 @@
+{
+  "TOKEN": "ضع_توكن_البوت_هنا_من_Discord_Developer_Portal",
+  "KEY": "ضع_مفتاح_Groq_API_هنا_من_console.groq.com",
+  "CONFIG": {
+    "MODEL": "meta-llama/llama-4-scout-17b-16e-instruct",
+    "MODEL_FAST": "",
+    "ALLOWED_CHANNELS": [],
+    "REQUIRE_MENTION": true,
+    "ADMIN_ONLY": true,
+    "ALLOWED_ROLE": "",
+    "AUDIT_CHANNEL": "",
+    "MAX_HISTORY": 12,
+    "JSON_MODE": true,
+    "ACTION_COOLDOWN": 3,
+    "RATE_LIMIT_PER_MIN": 8,
+    "PREFIX": "!",
+    "WEB_PORT": 8080
+  }
+}
